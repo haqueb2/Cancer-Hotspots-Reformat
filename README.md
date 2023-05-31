@@ -13,6 +13,7 @@ To use this code, follow the instructions below:
 
 ### Prerequisites
 
+- Jupyter Notebook (install using `pip install jupyterlab`)
 - Python 3.x
 - pandas library (install using `pip install pandas`)
 
